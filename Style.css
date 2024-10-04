@@ -217,7 +217,7 @@ section{
 }
 .section_text_p1{
     position: relative;
-    margin-left: 33rem;
+    margin-left: 38rem;
     
 }
 .about-container{
@@ -282,7 +282,7 @@ section{
 }
 .section_text_p3{
     position: relative;
-    margin-left: 35rem;
+    margin-left: 40rem;
 }
 /* Contact*/
 #contact{
@@ -314,5 +314,18 @@ section{
 }
 .section_text_p4{
     position: relative;
-    margin-left: 35rem;
+    margin-left: 40rem;
+}
+/* CV*/
+#cv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+.cv_png{
+    display: flex;
+    height: 120rem;
+    width: 60rem;
+    margin: 2rem 1rem;
 }
